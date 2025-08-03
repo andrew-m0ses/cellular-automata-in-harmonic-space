@@ -1,4 +1,4 @@
-Supercollider implementation of up-to-3-dimensional cellular automata in harmonic space
+Supercollider implementation of up-to-3-dimensional cellular automata in rational harmonic space
 
 includes UI controls for rule type, dimension, grid size, timing, harmonic ratio multiple for individual axes, origin frequency, and even an arpeggiation function !
 
